@@ -1,0 +1,17 @@
+.Lottery{
+    border: black 2px solid;
+    border-radius: 10px;
+    margin: 50px 50px;
+    width: 40em;
+    text-align: center;
+}
+button{
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: blue;
+}
